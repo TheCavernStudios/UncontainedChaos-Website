@@ -16,8 +16,7 @@ COPY . .
 # Build the Next.js application
 RUN npm run build
 
-# Expose the port the app runs on
-EXPOSE 3000
+COPY ./entrypoint.sh /entrypoint.sh
 
 # Start the Next.js server
-CMD ["npx", "next", "start", "-p", "${SERVER_PORT}"]
+ENTRYPOINT [ "./entrypoint.sh" ]
