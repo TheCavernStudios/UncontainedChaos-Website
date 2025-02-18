@@ -1,4 +1,7 @@
 #!/bin/sh
 
-server_port=${SERVER_PORT}
-npx next start -p $server_port
+# Replace Startup Variables
+MODIFIED_STARTUP=`eval echo $(echo ${STARTUP} | sed -e 's/{{/${/g' -e 's/}}/}/g')`
+
+# Run the Server
+${MODIFIED_STARTUP}
