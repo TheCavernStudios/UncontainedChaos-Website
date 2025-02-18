@@ -17,6 +17,7 @@ COPY . .
 RUN npm run build
 
 COPY ./entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 
 # Start the Next.js server
 ENTRYPOINT [ "./entrypoint.sh" ]
