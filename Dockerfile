@@ -20,4 +20,4 @@ RUN npm run build
 EXPOSE 3000
 
 # Start the Next.js server
-CMD ["npm", "start"]
+CMD ["npx", "next", "start", "-p", "${SERVER_PORT}"]
