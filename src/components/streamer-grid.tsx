@@ -12,6 +12,12 @@ interface Streamer {
 
 const streamers: Streamer[] = [
   {
+    name: "Fuzzy",
+    image: "/assets/img/streamer/awsumfuzzy.jpg",
+    about: "I'm a gamer and artist, mostly streaming Minecraft",
+    twitchUrl: "https://www.twitch.tv/heyofuzzy",
+  },
+  {
     name: "Cav",
     image: "/assets/img/streamer/cavv.png",
     about: "",
