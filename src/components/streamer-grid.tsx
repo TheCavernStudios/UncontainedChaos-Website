@@ -50,8 +50,8 @@ const streamers: Streamer[] = [
   {
     name: "Pitu",
     image: "/assets/img/streamer/pitu.png",
-    about: "",
-    twitchUrl: "https://www.twitch.tv/pitu",
+    about: "My name is Pitu, I’m 19 years old, I’m new to streaming and looking to have fun while vibing and playing games!\n\nI’m often energetic with an upbeat attitude, playing games, but I do enjoy having a chill moment.\n\nI enjoy playing a variety of games such as Minecraft, Phasmo, Lethal Company, and so many more.",
+    twitchUrl: "https://www.twitch.tv/pitu_traveler",
   },
 ];
 
