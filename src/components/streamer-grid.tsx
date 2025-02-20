@@ -44,7 +44,7 @@ const streamers: Streamer[] = [
   {
     name: "Sr_Sockman",
     image: "/assets/img/streamer/sr_sockman.jpg",
-    about: "",
+    about: "I'm just your typical neighborhood sentient sock with his army of rats. Just trying to make people on the internet smile and have a good time while playing video games or working on projects. At least when I'm not experimenting on the D-class that is.",
     twitchUrl: "https://www.twitch.tv/sr_sockman",
   },
   {
