@@ -32,7 +32,7 @@ const streamers: Streamer[] = [
   {
     name: "Rogerian",
     image: "/assets/img/streamer/rogerian.png",
-    about: "",
+    about: "I Am A Variety Streamer. Streaming since September 2021.",
     twitchUrl: "https://www.twitch.tv/rogerian_e",
   },
   {
