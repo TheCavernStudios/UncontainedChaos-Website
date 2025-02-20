@@ -20,7 +20,7 @@ const streamers: Streamer[] = [
   {
     name: "Cav",
     image: "/assets/img/streamer/cavv.png",
-    about: "",
+    about: "Hello, I'm Carolyn (she/her), I'm an game developer, gamer, streamer; and I'm the founder of Gamer Dorks, an indie game development studio.",
     twitchUrl: "https://www.twitch.tv/realgamerdorks",
   },
   {
