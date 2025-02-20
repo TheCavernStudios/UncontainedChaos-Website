@@ -33,13 +33,13 @@ const streamers: Streamer[] = [
     name: "Rogerian",
     image: "/assets/img/streamer/rogerian.png",
     about: "",
-    twitchUrl: "https://www.twitch.tv/rogerian",
+    twitchUrl: "https://www.twitch.tv/rogerian_e",
   },
   {
     name: "Tkj100",
     image: "/assets/img/streamer/tkj100.png",
     about: "",
-    twitchUrl: "https://www.twitch.tv/tkj100",
+    twitchUrl: "https://www.twitch.tv/tkj100live",
   },
   {
     name: "Sr_Sockman",
@@ -51,7 +51,7 @@ const streamers: Streamer[] = [
     name: "Pitu",
     image: "/assets/img/streamer/pitu.png",
     about: "",
-    twitchUrl: "https://www.twitch.tv/sr_sockman",
+    twitchUrl: "https://www.twitch.tv/pitu",
   },
 ];
 
