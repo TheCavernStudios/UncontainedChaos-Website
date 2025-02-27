@@ -47,12 +47,6 @@ const streamers: Streamer[] = [
     about: "I'm just your typical neighborhood sentient sock with his army of rats. Just trying to make people on the internet smile and have a good time while playing video games or working on projects. At least when I'm not experimenting on the D-class that is.",
     twitchUrl: "https://www.twitch.tv/sr_sockman",
   },
-  {
-    name: "Pitu",
-    image: "/assets/img/streamer/pitu.png",
-    about: "My name is Pitu, I’m 19 years old, I’m new to streaming and looking to have fun while vibing and playing games!\n\nI’m often energetic with an upbeat attitude, playing games, but I do enjoy having a chill moment.\n\nI enjoy playing a variety of games such as Minecraft, Phasmo, Lethal Company, and so many more.",
-    twitchUrl: "https://www.twitch.tv/pitu_traveler",
-  },
 ];
 
 export function StreamerGrid() {
