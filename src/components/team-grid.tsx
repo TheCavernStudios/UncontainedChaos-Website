@@ -29,7 +29,7 @@ const team: Team[] = [
     name: "Sickmixlovespine",
     image: "/assets/img/team/sickmix.webp",
     role: "Long Form Editor",
-    about: "Hello I'm Tkj100 or Tk for short. I'm the short form editor for the channel. I'm here to make sure the short form content is up to par and ready for the channel."
+    about: ""
   },
   {
     name: "Tkj",
